@@ -3,6 +3,8 @@ int starty = (int)(Math.random()*333)+80;
 int endx = 0;
 int endy = 250;
 
+
+
 void setup()
 {
 	background(8,8,92);
